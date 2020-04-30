@@ -1,4 +1,5 @@
-baseurl = "file:///C:/Users/syj/Documents/dph206/blog/docs"
+# baseurl = "file:///C:/Users/syj/Documents/dph206/blog/docs/"
+baseurl = "https://Bella-yijing.github.io/blog/"
 publishDir = "docs"
 languageCode = "en-us"
 title = "A Hugo website"
